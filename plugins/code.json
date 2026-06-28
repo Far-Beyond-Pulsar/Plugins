@@ -1,0 +1,7 @@
+{
+  "name": "Code Editor",
+  "description": "Code editor/IDE for Pulsar projects",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_CodeEditor",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["scripting", "text", "official"]
+}
