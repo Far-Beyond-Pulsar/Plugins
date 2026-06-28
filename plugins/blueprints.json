@@ -1,0 +1,7 @@
+{
+  "name": "Blueprint Editor",
+  "description": "Visual scripting graph editor for Pulsar projects",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Blueprints",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["scripting", "visual", "official"]
+}
