@@ -1,0 +1,7 @@
+{
+  "name": "Matter Editor",
+  "description": "Material and texture creation plugin for Pulsar",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Matter",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["art", "texture", "official"]
+}

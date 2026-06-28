@@ -1,0 +1,7 @@
+{
+  "name": "Skeletal Mesh Editor",
+  "description": "Skeletal mesh and animation editor for Pulsar projects",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_SKM",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["art", "skeleton", "official"]
+}

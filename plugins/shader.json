@@ -1,0 +1,7 @@
+{
+  "name": "Shader Editor",
+  "description": "Shader editor for Pulsar projects",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Shader",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["art", "material", "visual", "official"]
+}
