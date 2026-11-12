@@ -1,0 +1,7 @@
+{
+  "name": "Sprites",
+  "description": "2D sprites drawn over the scene: their component, rows, image binding and the renderer feature that culls, batches and draws them",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Sprites",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["render", "2d", "official"]
+}

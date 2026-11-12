@@ -1,0 +1,7 @@
+{
+  "name": "Physics",
+  "description": "Physics for the Pulsar engine: components, Rapier simulation thread and physics events",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Physics",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["simulation", "runtime", "official"]
+}

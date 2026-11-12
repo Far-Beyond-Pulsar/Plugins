@@ -1,0 +1,7 @@
+{
+  "name": "Terminal",
+  "description": "A plugin to add a terminal drawer to the Pulsar engine!",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Terminal",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["tools", "editor", "official"]
+}

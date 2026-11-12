@@ -1,0 +1,7 @@
+{
+  "name": "Diagram Editor",
+  "description": "UML Diagrams for Pulsar engine!",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Diagrams",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["documentation", "editor", "official"]
+}

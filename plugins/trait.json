@@ -1,0 +1,7 @@
+{
+  "name": "Trait Editor",
+  "description": "a plugin which adds a GUI trait editor to Pulsar Engine!",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Trait",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["data", "editor", "official"]
+}

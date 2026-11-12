@@ -1,0 +1,7 @@
+{
+  "name": "Camera Lens",
+  "description": "A camera's physically based lens: its component, presets, rows and the renderer features that resolve the image through it and draw its flare",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Lens",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["render", "camera", "official"]
+}

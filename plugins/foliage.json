@@ -1,0 +1,7 @@
+{
+  "name": "Foliage",
+  "description": "Foliage and the level's wind: their components, rows, settings and the renderer feature that places and draws them",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Foliage",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["render", "world", "official"]
+}

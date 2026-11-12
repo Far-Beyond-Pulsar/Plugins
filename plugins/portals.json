@@ -1,0 +1,7 @@
+{
+  "name": "Portals",
+  "description": "Openings that show another place: their component, pairing and projection, settings and the renderer features that cull and draw through them",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Portals",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["render", "world", "official"]
+}

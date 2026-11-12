@@ -1,0 +1,7 @@
+{
+  "name": "Input",
+  "description": "Pulsar input actions, input mappings, their editors, and the input runtime",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Input",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["gameplay", "runtime", "official"]
+}

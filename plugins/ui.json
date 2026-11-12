@@ -1,0 +1,7 @@
+{
+  "name": "UI Widgets",
+  "description": "Pulsar widget assets and the WYSIWYG widget editor",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_UI",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["ui", "editor", "official"]
+}

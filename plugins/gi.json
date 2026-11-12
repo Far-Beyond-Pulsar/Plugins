@@ -1,0 +1,7 @@
+{
+  "name": "Global Illumination",
+  "description": "World-space diffuse GI: the probe clipmap the scene's tracers feed, and its settings",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_GI",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["render", "lighting", "official"]
+}

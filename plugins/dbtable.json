@@ -1,0 +1,7 @@
+{
+  "name": "Table Editor",
+  "description": "A plugin to add a DB Table editor to the Pulsar Engine!",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_DBTable",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["data", "editor", "official"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Fog",
+  "description": "Global and local fog media: their components, rows and the renderer feature that integrates and composites them (volumetric fog)",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Fog",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["render", "world", "official"]
+}

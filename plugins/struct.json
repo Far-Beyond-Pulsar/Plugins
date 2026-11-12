@@ -1,0 +1,7 @@
+{
+  "name": "Struct Editor",
+  "description": "A plugin which adds a GUI struct editor to Pulsar Engine!",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Struct",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["data", "editor", "official"]
+}

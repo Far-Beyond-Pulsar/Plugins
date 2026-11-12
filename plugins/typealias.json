@@ -1,0 +1,7 @@
+{
+  "name": "Type Alias Editor",
+  "description": "The Type Alias editor plugin for Pulsar Engine",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_TypeAlias",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["data", "editor", "official"]
+}

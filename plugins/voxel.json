@@ -1,0 +1,7 @@
+{
+  "name": "Voxel Terrain",
+  "description": "Destructible voxel terrain: its components, runtime, file formats, ready-made worlds and the renderer feature that draws it",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Voxel",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["world", "terrain", "official"]
+}

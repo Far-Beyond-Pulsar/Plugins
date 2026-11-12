@@ -1,0 +1,7 @@
+{
+  "name": "Decals",
+  "description": "Decals projected onto surfaces: their component, rows, image binding and the renderer feature that draws them",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Decals",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["render", "art", "official"]
+}

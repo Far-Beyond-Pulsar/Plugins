@@ -1,0 +1,7 @@
+{
+  "name": "Digital Audio Workstation",
+  "description": "A plugin to add a DAW (Digital audio workstation) to the Pulsar Engine",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_DAW",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["audio", "editor", "official"]
+}

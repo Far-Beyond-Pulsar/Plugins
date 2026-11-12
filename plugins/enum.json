@@ -1,0 +1,7 @@
+{
+  "name": "Enum Editor",
+  "description": "A plugin to add a Enum editor to Pulsar Engine!",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Enum",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["data", "editor", "official"]
+}

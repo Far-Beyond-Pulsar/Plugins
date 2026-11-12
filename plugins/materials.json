@@ -1,0 +1,7 @@
+{
+  "name": "Materials",
+  "description": "Materials: the material row and texture table every kind draws with, the PBR evaluation and the Radiant material templates",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Materials",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["render", "art", "official"]
+}

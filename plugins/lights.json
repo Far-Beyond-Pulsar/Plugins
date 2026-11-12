@@ -1,0 +1,7 @@
+{
+  "name": "Lights",
+  "description": "Lights and reflection captures: the light list, shadow views, the lighting models, IES profiles and light icons",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Lights",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["render", "lighting", "official"]
+}

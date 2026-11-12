@@ -1,0 +1,7 @@
+{
+  "name": "Meshes",
+  "description": "Static, skeletal and virtual-geometry meshes: their batching, culling, drawers and asset import",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Meshes",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["render", "art", "official"]
+}

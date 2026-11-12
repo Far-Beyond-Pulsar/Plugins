@@ -1,0 +1,7 @@
+{
+  "name": "Sky",
+  "description": "The level's sky: the atmosphere component (air, sun disc, clouds and weather), its row and the renderer feature that draws it and publishes the sky's lighting inputs",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Sky",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["render", "world", "official"]
+}

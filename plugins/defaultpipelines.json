@@ -1,0 +1,7 @@
+{
+  "name": "Default Pipelines",
+  "description": "The engine's default render pipelines as render-graph assets, built from the other plugins' nodes and provided to projects through the plugin folder",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_DefaultPipelines",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["render", "pipelines", "official"]
+}

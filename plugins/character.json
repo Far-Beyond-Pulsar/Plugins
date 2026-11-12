@@ -1,0 +1,7 @@
+{
+  "name": "Character",
+  "description": "A playable character class composed from the skeletal, physics and optional input plugins through the component class API",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Character",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["gameplay", "runtime", "official"]
+}
