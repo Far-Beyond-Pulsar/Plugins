@@ -1,0 +1,7 @@
+{
+  "name": "Bake",
+  "description": "Baked lighting: lightmaps, baked irradiance and PVS visibility, published to the frame's lighting-input contracts",
+  "repo_url": "https://github.com/Far-Beyond-Pulsar/Plugin_Bake",
+  "author": "Far-Beyond-Pulsar",
+  "tags": ["render", "lighting", "official"]
+}
